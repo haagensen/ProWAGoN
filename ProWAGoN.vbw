@@ -1,0 +1,6 @@
+frmWelcome = 25, 96, 851, 663, C, 0, 0, 0, 0, C
+frmMain = 113, 132, 762, 699, C, 0, 0, 0, 0, C
+Variables = 562, 62, 1009, 629, CZ
+frmKeyboardShortcuts = 93, 58, 920, 415, C, 0, 0, 0, 0, C
+MFileOpen = 164, 117, 611, 684, C
+frmAbout = 268, 108, 715, 684, CZ, 0, 0, 0, 0, C
